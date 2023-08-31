@@ -1,0 +1,5 @@
+package utils;
+
+public enum Colors {
+    BLACK_SQUARE_COLOR, WHITE_SQUARE_COLOR, SELECTED_PIECE_COLOR, POSSIBLE_MOVES_COLOR
+}
